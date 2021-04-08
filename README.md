@@ -3,7 +3,9 @@
 ⭐️ This is my main GitHub page ⭐️
 
 **Name:** Robert Poenaru
+
 **Twitter:** @basavyr
+
 **E-mail:** <robert.poenaru@tutanota.de>
 
 ✉️ Contact me for any questions, project proposals, collabs that are related to Physics and Programming ✉️
